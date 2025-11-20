@@ -1,0 +1,14 @@
+| Column Name    | Description                                                 |
+| -------------- | ----------------------------------------------------------- |
+| `cord_uid`     | Unique ID for each paper                                    |
+| `title`        | Title of the research paper                                 |
+| `abstract`     | Abstract of the paper                                       |
+| `publish_time` | Publication date (YYYY-MM-DD)                               |
+| `journal`      | Name of the journal                                         |
+| `authors`      | Names of authors                                            |
+| `source_x`     | Source of the paper (PMC, MEDLINE, etc.)                    |
+| `doi`          | Digital Object Identifier                                   |
+| `pmcid`        | PubMed Central ID                                           |
+| `pubmed_id`    | PubMed ID                                                   |
+| `license`      | License type (if available)                                 |
+| ...            | Other optional columns (like `url`, `full_text_file`, etc.) |
